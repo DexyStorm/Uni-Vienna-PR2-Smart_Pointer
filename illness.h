@@ -4,6 +4,8 @@
 // includes
 #include "hospital.h"
 
+using namespace std;
+
 // forward declarations
 enum class Medical_Specialty;
 

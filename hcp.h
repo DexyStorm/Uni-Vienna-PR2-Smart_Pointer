@@ -4,6 +4,8 @@
 #include "hospital.h"
 #include "patient.h"
 
+using namespace std;
+
 // forward declarations
 enum class Medical_Specialty;
 class Patient;

@@ -14,6 +14,8 @@
 #include "patient.h"
 #include "hcp.h"
 
+using namespace std;
+
 // forward declarations
 class Patient;
 class Health_Care_Provider;

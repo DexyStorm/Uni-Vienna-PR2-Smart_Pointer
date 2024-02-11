@@ -106,6 +106,8 @@ unsigned Patient::cure(Medical_Specialty x)
 		}
 	}
 	return removed_counter;
+
+
 }
 
 // operator == overload

@@ -5,6 +5,8 @@
 #include "hospital.h"
 #include "illness.h"
 
+using namespace std;
+
 // forward declarations
 class Illness; // i think i dont need it if i already #include "illness.h"
 enum class Medical_Specialty;
